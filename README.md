@@ -5,5 +5,5 @@ Yelp Review Manager is a Python-based GUI application that helps users discover 
 
 ## Tech Stack
 - Python
-- Tkinter (for the desktop GUI)
+- PyQT
 - Standard Python libraries for application logic and data handling
